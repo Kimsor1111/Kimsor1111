@@ -30,6 +30,9 @@ I'm Ang Kimsor, a website developer. I am currently a student who study computer
 [![Facebook][Facebook]](facebook.com)
 [![Telegram][Telegram]](facebook.com)
 [![Instagram][Instagram]](facebook.com)
+[![Linkedin][Linkedin]](facebook.com)
+[![Upwork][Upwork]](facebook.com)
+[![Email][Email]](facebook.com)
 
 **Have a nice day!**
 
@@ -54,9 +57,12 @@ I'm Ang Kimsor, a website developer. I am currently a student who study computer
 [PHP]: https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=#777BB4
 [Laravel]: https://img.shields.io/badge/Laravel-20232A?style=for-the-badge&logo=laravel&logoColor=#777BB4
 [MySQL]: https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=#4479A1 
-[Facebook]: https://img.shields.io/badge/Facebook-20232A?style=for-the-badge&logo=facebook&logoColor=#FF0069
-[Telegram]: https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram&logoColor=white
-[Instagram]: https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=#FF0069
+[Facebook]: https://img.shields.io/badge/Facebook-20232A?style=for-the-badge&logo=facebook&logoColor=blue
+[Telegram]: https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram
+[Instagram]: https://img.shields.io/badge/Instagram-20232A?style=for-the-badge&logo=instagram&logoColor=red
+[Linkedin]: https://img.shields.io/badge/Linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=blue
+[Upwork]: https://img.shields.io/badge/Upwork-20232A?style=for-the-badge&logo=upwork
+[Email]: https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail
 
 
 
