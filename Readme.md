@@ -14,17 +14,17 @@ I'm Ang Kimsor, a website developer. I am currently a student who study computer
 ![TailwindCSS]
 ![JS]
 ![React]
+![Vue]
 ![PHP]
 ![MySQL]
 ![Figma]
 <!--
-![Vue]
 ![Angular]
 ![TypeScript]
 ![Next]
 ![Node]
-![Express]-->
-<!--![Laravel]-->
+![Express]
+![Laravel]-->
 
 # ☎️ Socials
 [![Facebook][Facebook]](facebook.com)
