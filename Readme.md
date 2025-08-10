@@ -27,12 +27,12 @@ I'm Ang Kimsor, a website developer. I am currently a student who study computer
 ![Laravel]-->
 
 # ☎️ Socials
-[![Facebook][Facebook]](facebook.com)
-[![Telegram][Telegram]](facebook.com)
-[![Instagram][Instagram]](facebook.com)
-[![Linkedin][Linkedin]](facebook.com)
-[![Upwork][Upwork]](facebook.com)
-[![Email][Email]](facebook.com)
+[![Facebook][Facebook]](https://www.facebook.com/share/17618FLYKg/?mibextid=wwXIfr)
+[![Telegram][Telegram]](https://t.me/Thirtieth_October)
+[![Instagram][Instagram]](https://www.instagram.com/scorpio_thirtieth?igsh=MWFmendhemswdjV6MA%3D%3D&utm_source=qr)
+[![Linkedin][Linkedin]](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+[![Upwork][Upwork]](https://www.upwork.com/freelancers/~0133b1ba089ed8cd3b)
+[![Email][Email]](mailto:angkimsor@gmail.com)
 
 **Have a nice day!**
 
