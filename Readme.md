@@ -18,6 +18,10 @@ I'm Ang Kimsor, a website developer. I am currently a student who study computer
 ![PHP]
 ![MySQL]
 ![Figma]
+![Vercel]
+![Netlify]
+![Git]
+![Github]
 <!--
 ![Angular]
 ![TypeScript]
@@ -63,6 +67,10 @@ I'm Ang Kimsor, a website developer. I am currently a student who study computer
 [Linkedin]: https://img.shields.io/badge/Linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=blue
 [Upwork]: https://img.shields.io/badge/Upwork-20232A?style=for-the-badge&logo=upwork
 [Email]: https://img.shields.io/badge/Email-20232A?style=for-the-badge&logo=gmail
+[Vercel]: https://img.shields.io/badge/vercel-20232A?style=for-the-badge&logo=vercel
+[Netlify]: https://img.shields.io/badge/netlify-20232A?style=for-the-badge&logo=netlify
+[Git]: https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git
+[GitHub]: https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github
 
 
 
