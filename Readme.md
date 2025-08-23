@@ -14,7 +14,7 @@ I'm Ang Kimsor, a website developer. I am currently a student who study computer
 ![TailwindCSS]
 ![JS]
 ![React]
-![Vue]
+<!--![Vue]-->
 ![PHP]
 ![MySQL]
 ![Figma]
